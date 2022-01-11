@@ -8,5 +8,5 @@ users environment or created in cyber-dojo.
 1. Click skip on the choose your exercise screen
 1. For language and framework choose JavaScript, jest
 1. Choose ensemble
-1. Delete all files except cyber-dojo&#46;sh
-1. Add all only the two .js files
+1. Delete both of the .js files except cyber-dojo&#46;sh
+1. Add all only the two .js files from this repo
