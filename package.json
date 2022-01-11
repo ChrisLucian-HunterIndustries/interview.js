@@ -1,0 +1,15 @@
+{
+  "name": "interview.js",
+  "version": "1.0.0",
+  "description": "interview",
+  "main": "PhoneNumber.js",
+  "dependencies": {
+    "jest": "^27.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Austin Abro",
+  "license": "ISC"
+}
