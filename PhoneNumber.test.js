@@ -1,5 +1,4 @@
 const PhoneNumber = require('./phoneNumber');
-const sum = require('./phoneNumber');
 
 test('Test 1', () => {
   const ph = new PhoneNumber("+1(858)775-2868")
