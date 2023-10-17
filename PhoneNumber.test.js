@@ -13,7 +13,7 @@ test('Test 2', () => {
   expect(ph.getOriginalText()).toBe("+1(858)775-2868x123");
   expect(ph.getStrippedNumber()).toBe("+18587752868x123");
   expect(ph.getValueAsNorthAmerican()).toBe("(858)775-2868x123");
-  expect(ph.getValueAsInternational()).toBe("+1.858.775-2868x123");
+  expect(ph.getValueAsInternational()).toBe("+1.858.775.2868x123");
 });
 
 test('Test 3', () => {
